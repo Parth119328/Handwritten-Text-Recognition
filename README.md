@@ -28,8 +28,7 @@ The architecture uses **CNNs for feature extraction**, **Bidirectional LSTMs for
 ---
 
 ## 📈Dataset
-IAM Words dataset used.
-https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database
+IAM Words dataset used.<br>https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database
 
 ---
 ## ©️Character Set
